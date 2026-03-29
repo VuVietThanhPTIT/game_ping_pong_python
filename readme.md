@@ -1,15 +1,18 @@
 
-# logic quả bóng
+# màn hình
+
+# người chơi bên trái , bên phải 
 
 # logic người chơi
 
-# trang đăng nhập 
+# quả bóng
 
-# trang ghép người chơi 
+# logic quả bóng
+
+# tính điểm 
+
+# người chiến thắng 
 
 
 
-
-
-
-## thêm luật chơi bóng nhanh hơn , nhỏ lại khi điểm tăng 
+# thêm luật chơi bóng nhanh hơn , nhỏ lại khi điểm tăng 
